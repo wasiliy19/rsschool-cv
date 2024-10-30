@@ -49,3 +49,11 @@ const cityInfo = (city, index) =>
 
 myCities.forEach((city, index) => console.log(cityInfo(city, index)))
 ```
+
+---
+
+### Courses:
+
+Web development courses at Aroken.ru online school (completed)
+
+![image](./Wasiliy_Baishev.jpg)
